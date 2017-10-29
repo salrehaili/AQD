@@ -1,2 +1,3 @@
 # AQD
-The Arabic Quranic Database
+The Arabic Quranic Database.
+
